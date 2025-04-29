@@ -84,11 +84,13 @@ plt.show()
 ~~~
 # Output Waveform
 ```
-![image](https://github.com/user-attachments/assets/a57257b6-31e6-4f39-a991-f76ac8c6f7e8)
+![image](https://github.com/user-attachments/assets/58300ef9-34a0-49e1-a1ab-29d2eb66c8f7)
 
 ```
 # Results
 ```
-
+The experiment to implement FSK modulation and demodulation was successfully performed using Python. The output matched the expected results, confirming the theoretical working of FSK.
 ```
 # Hardware experiment output waveform.
+![WhatsApp Image 2025-04-29 at 19 15 29_980322e7](https://github.com/user-attachments/assets/e83f11fc-9506-49ff-b04c-b3bbc03c8d6e)
+
